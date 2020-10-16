@@ -10,7 +10,8 @@ The research demonstrates the best algorithm based on their accuracy.
 The accuracy is determined by the performance on the given dataset.
 
 MODEL:
-We proposed general disease prediction based on symptoms of the patient.For the disease prediction, we use Multinomial Bayes Classification for accurate prediction of disease.
+We proposed general disease prediction based on symptoms of the patient.
+For the disease prediction, we use Multinomial Bayes Classification for accurate prediction of disease.
 For disease prediction require symptoms dataset.
 The accuracy of general disease is 99%
 After general disease prediction, this system able to gives the risk associated with general disease which is lower risk of general disease or higher.
